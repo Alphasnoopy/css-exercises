@@ -12,6 +12,14 @@ img {
   font-weight: 900;
 }
 
+.infocontainer {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+.info {
+  max-width: 200px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
